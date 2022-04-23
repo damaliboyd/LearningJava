@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.howtodoinjava -DartifactId=demoWebApplication -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
